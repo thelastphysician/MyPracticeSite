@@ -6,6 +6,7 @@ using Microsoft.AspNetCore.Mvc;
 using MyPracticeSite.Models;
 using MyPracticeSite.Services;
 
+//operates on product class, 
 namespace MyPracticeSite.Controllers
 {
     [Route("[controller]")]
@@ -24,12 +25,12 @@ namespace MyPracticeSite.Controllers
             return ProductService.GetProducts();
         }
 
-        [Route ("Rate")]
+        [Route ("rate")]
         [HttpGet]
         public ActionResult Get(
-            [FromQuery] string ProductId, 
-            [FromQuery] int Rating) {
-            ProductService.AddRating(ProductId, Rating);
+            [FromQuery] string Id, 
+            [FromQuery] int Ratings) {
+            ProductService.AddRating(Id, Ratings);
             return Ok();
         }
 

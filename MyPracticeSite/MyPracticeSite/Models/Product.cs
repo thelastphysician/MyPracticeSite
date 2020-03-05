@@ -7,6 +7,7 @@ using System.Threading.Tasks;
 
 namespace MyPracticeSite.Models
 {
+    //Contains information from json file
     public class Product
     {
 
