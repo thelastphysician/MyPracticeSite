@@ -3,7 +3,7 @@
   {
     _id: '{{objectId()}}',
     maker: '{{firstName()}}',
-    img: 'http://placehold.it/512x512',
+    img: 'https://picsum.photos/512/512',
     url: 'https://placeholder.com/stock-photos',
     title: '{{lorem(0, "sentences")}}',
     description: '{{lorem(1, "paragraphs")}}'

@@ -12,7 +12,6 @@ D:\Documents\Code\MyPracticeSite\MyPracticeSite\MyPracticeSite\bin\Debug\netcore
 D:\Documents\Code\MyPracticeSite\MyPracticeSite\MyPracticeSite\obj\Debug\netcoreapp3.1\MyPracticeSite.csprojAssemblyReference.cache
 D:\Documents\Code\MyPracticeSite\MyPracticeSite\MyPracticeSite\obj\Debug\netcoreapp3.1\staticwebassets\MyPracticeSite.StaticWebAssets.Manifest.cache
 D:\Documents\Code\MyPracticeSite\MyPracticeSite\MyPracticeSite\obj\Debug\netcoreapp3.1\staticwebassets\MyPracticeSite.StaticWebAssets.xml
-D:\Documents\Code\MyPracticeSite\MyPracticeSite\MyPracticeSite\obj\Debug\netcoreapp3.1\MyPracticeSite.MvcApplicationPartsAssemblyInfo.cache
 D:\Documents\Code\MyPracticeSite\MyPracticeSite\MyPracticeSite\obj\Debug\netcoreapp3.1\MyPracticeSite.RazorAssemblyInfo.cache
 D:\Documents\Code\MyPracticeSite\MyPracticeSite\MyPracticeSite\obj\Debug\netcoreapp3.1\MyPracticeSite.RazorAssemblyInfo.cs
 D:\Documents\Code\MyPracticeSite\MyPracticeSite\MyPracticeSite\obj\Debug\netcoreapp3.1\MyPracticeSite.AssemblyInfoInputs.cache
@@ -33,3 +32,4 @@ D:\Documents\Code\MyPracticeSite\MyPracticeSite\MyPracticeSite\obj\Debug\netcore
 D:\Documents\Code\MyPracticeSite\MyPracticeSite\MyPracticeSite\obj\Debug\netcoreapp3.1\MyPracticeSite.dll
 D:\Documents\Code\MyPracticeSite\MyPracticeSite\MyPracticeSite\obj\Debug\netcoreapp3.1\MyPracticeSite.pdb
 D:\Documents\Code\MyPracticeSite\MyPracticeSite\MyPracticeSite\obj\Debug\netcoreapp3.1\MyPracticeSite.csproj.CopyComplete
+D:\Documents\Code\MyPracticeSite\MyPracticeSite\MyPracticeSite\obj\Debug\netcoreapp3.1\MyPracticeSite.MvcApplicationPartsAssemblyInfo.cache
