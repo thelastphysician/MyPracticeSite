@@ -7,9 +7,12 @@
     "Title": "Ullamco non ea voluptate do amet consectetur aute do commodo proident dolor eiusmod.",
     "Description": "Nostrud culpa ullamco tempor et. Commodo reprehenderit nulla sunt veniam velit nulla minim fugiat pariatur dolor. Ipsum reprehenderit cupidatat ullamco qui quis est.\r\n",
     "Ratings": [
-      5
-   
-    ]
+      5,
+      5,
+      5,
+      2
+    ],
+    "AvrRatings": 4.25
   },
   {
     "Id": "5e58484c2cbf902ead712313",
@@ -18,7 +21,8 @@
     "Url": "https://placeholder.com/stock-photos",
     "Title": "Cupidatat cillum fugiat esse nostrud id enim cupidatat non in sint ea deserunt.",
     "Description": "Ullamco cupidatat amet ad occaecat. Officia elit velit culpa reprehenderit occaecat in officia ex sit proident nostrud proident cupidatat quis. Enim et consequat ullamco deserunt occaecat id esse. Anim elit quis non labore. Nostrud sunt proident id eu irure consectetur veniam enim sint irure eu.\r\n",
-    "Ratings": null
+    "Ratings": null,
+    "AvrRatings": -1
   },
   {
     "Id": "5e58484c4e088da21bb04a5e",
@@ -27,7 +31,8 @@
     "Url": "https://placeholder.com/stock-photos",
     "Title": "Adipisicing officia incididunt velit nulla est.",
     "Description": "Ad nulla tempor reprehenderit nisi sint commodo cupidatat occaecat excepteur sunt qui. Proident tempor velit consequat qui do sit reprehenderit eu laboris tempor aliqua excepteur. Culpa quis quis sint nisi id ullamco voluptate tempor nostrud ex. Voluptate dolor consectetur in amet ea duis. Adipisicing fugiat ipsum sunt adipisicing velit cupidatat eu exercitation voluptate enim.\r\n",
-    "Ratings": null
+    "Ratings": null,
+    "AvrRatings": -1
   },
   {
     "Id": "5e58484cb8fb761adf96354e",
@@ -36,7 +41,8 @@
     "Url": "https://placeholder.com/stock-photos",
     "Title": "Fugiat occaecat mollit laboris reprehenderit est commodo laborum proident in tempor consequat.",
     "Description": "Aliqua est ex excepteur mollit ipsum commodo incididunt fugiat laboris do dolor. Incididunt nulla tempor pariatur elit consectetur cillum. Officia ea minim duis commodo magna sint pariatur reprehenderit fugiat eu laboris aliqua.\r\n",
-    "Ratings": null
+    "Ratings": null,
+    "AvrRatings": -1
   },
   {
     "Id": "5e58484c660313a70ba6e10d",
@@ -45,7 +51,8 @@
     "Url": "https://placeholder.com/stock-photos",
     "Title": "Cupidatat ullamco enim ad consequat irure commodo.",
     "Description": "Proident laboris est officia minim proident. Ea qui in reprehenderit dolore proident sint reprehenderit eu. In veniam proident consectetur do irure est reprehenderit amet et. Est officia dolore id laborum labore ea cupidatat aliquip consectetur laboris ex.\r\n",
-    "Ratings": null
+    "Ratings": null,
+    "AvrRatings": -1
   },
   {
     "Id": "5e58484cd510fbb35fe35d99",
@@ -54,7 +61,8 @@
     "Url": "https://placeholder.com/stock-photos",
     "Title": "Cillum enim nostrud eiusmod ad nisi non esse cillum.",
     "Description": "Enim cupidatat sunt adipisicing ea. Reprehenderit cupidatat anim quis aute sint nostrud cupidatat aliquip. Consequat ut non fugiat voluptate non commodo ad ea cupidatat. Aliquip Lorem reprehenderit laborum voluptate mollit. Lorem mollit velit ullamco anim nulla nostrud. Ipsum reprehenderit occaecat fugiat Lorem.\r\n",
-    "Ratings": null
+    "Ratings": null,
+    "AvrRatings": -1
   },
   {
     "Id": "5e58484c97688e628f5b1830",
@@ -63,7 +71,8 @@
     "Url": "https://placeholder.com/stock-photos",
     "Title": "Dolore Lorem commodo culpa ipsum incididunt culpa et consectetur consectetur nulla in nulla.",
     "Description": "Amet adipisicing ipsum incididunt laboris ut sint nostrud id exercitation consectetur esse sunt. Duis ex eu ut ex ut do occaecat dolore aliqua nulla culpa magna laboris. Aliquip et aute est ullamco voluptate irure mollit. Mollit proident est aliqua ad aute consectetur nisi. Proident aliquip fugiat Lorem elit nulla aute ipsum elit fugiat aute. Ipsum eu consectetur ad pariatur eiusmod excepteur aute irure eu magna. Velit officia exercitation eiusmod ut do aliquip.\r\n",
-    "Ratings": null
+    "Ratings": null,
+    "AvrRatings": -1
   },
   {
     "Id": "5e58484c8325728f9f3f070e",
@@ -72,7 +81,8 @@
     "Url": "https://placeholder.com/stock-photos",
     "Title": "Proident mollit id est aliqua amet sunt id ad.",
     "Description": "Tempor fugiat mollit excepteur nisi ut qui culpa velit id. Excepteur dolor est dolor non reprehenderit. Nostrud nisi quis ad ipsum in qui anim esse tempor tempor et aute. Amet commodo reprehenderit reprehenderit sint quis enim eiusmod proident aliqua ut minim fugiat sunt anim. Et velit ipsum eiusmod labore consectetur mollit occaecat adipisicing pariatur et. Excepteur minim commodo laboris laborum et. Magna ullamco occaecat excepteur est duis.\r\n",
-    "Ratings": null
+    "Ratings": null,
+    "AvrRatings": -1
   },
   {
     "Id": "5e58484cf1dad45c33ccd535",
@@ -81,7 +91,8 @@
     "Url": "https://placeholder.com/stock-photos",
     "Title": "Duis irure dolore dolor in irure id.",
     "Description": "Sunt irure duis consectetur adipisicing dolor. Minim proident magna veniam irure reprehenderit culpa aute esse aliquip id dolor tempor sunt. Aliqua eiusmod minim ex cupidatat reprehenderit exercitation commodo dolor non nulla adipisicing irure. Sunt in aliqua labore consectetur ipsum pariatur.\r\n",
-    "Ratings": null
+    "Ratings": null,
+    "AvrRatings": -1
   },
   {
     "Id": "5e58484c51bf275fa794ba9e",
@@ -90,7 +101,8 @@
     "Url": "https://placeholder.com/stock-photos",
     "Title": "Qui in pariatur elit laboris.",
     "Description": "Occaecat nostrud cillum ex adipisicing magna anim exercitation. Minim occaecat dolor qui ex quis pariatur deserunt labore sint magna proident id. Aute nisi aute proident Lorem voluptate culpa.\r\n",
-    "Ratings": null
+    "Ratings": null,
+    "AvrRatings": -1
   },
   {
     "Id": "5e58484c82213193cd0abd7f",
@@ -99,7 +111,8 @@
     "Url": "https://placeholder.com/stock-photos",
     "Title": "Voluptate adipisicing Lorem in dolore velit proident Lorem cillum nisi dolor in deserunt proident.",
     "Description": "Do labore et anim adipisicing. Ullamco magna deserunt est adipisicing in duis. Proident pariatur tempor aliquip proident anim reprehenderit nulla veniam. Elit pariatur exercitation aliqua dolore aliquip veniam in sit incididunt est exercitation id culpa tempor.\r\n",
-    "Ratings": null
+    "Ratings": null,
+    "AvrRatings": -1
   },
   {
     "Id": "5e58484cc6f7649559ceed51",
@@ -108,7 +121,8 @@
     "Url": "https://placeholder.com/stock-photos",
     "Title": "Aliqua et reprehenderit non cillum mollit occaecat in.",
     "Description": "Aliqua dolor ut nisi esse ipsum duis voluptate reprehenderit sunt fugiat exercitation sint. Exercitation dolore sint et quis proident occaecat magna mollit labore amet ullamco duis ullamco commodo. Quis enim tempor do proident nisi incididunt. Nulla dolor aliqua duis ullamco incididunt qui nostrud magna reprehenderit consequat esse.\r\n",
-    "Ratings": null
+    "Ratings": null,
+    "AvrRatings": -1
   },
   {
     "Id": "5e58484c3074e4bb4f80253a",
@@ -117,7 +131,8 @@
     "Url": "https://placeholder.com/stock-photos",
     "Title": "Duis laborum culpa aliqua consectetur id magna eiusmod minim.",
     "Description": "Voluptate laboris dolor irure nulla excepteur incididunt laborum tempor. Dolor do officia ut enim nostrud consectetur ullamco cillum. Duis amet quis occaecat dolor laborum sint excepteur Lorem eiusmod. Nostrud in veniam sint est ipsum deserunt labore irure ut laboris excepteur. Sit consectetur ipsum consequat ea sunt ut amet incididunt sunt adipisicing consequat fugiat nulla. Ut fugiat id nulla do est occaecat commodo ad aliquip veniam. Incididunt tempor cupidatat ad non quis elit labore labore consequat Lorem deserunt consectetur pariatur anim.\r\n",
-    "Ratings": null
+    "Ratings": null,
+    "AvrRatings": -1
   },
   {
     "Id": "5e58484c107985f733d3c9b6",
@@ -126,7 +141,8 @@
     "Url": "https://placeholder.com/stock-photos",
     "Title": "Velit nulla aliqua minim incididunt.",
     "Description": "Elit consequat pariatur veniam excepteur labore quis do deserunt anim fugiat amet duis occaecat mollit. Tempor irure ad proident ex. Et excepteur in ut et exercitation fugiat sint elit labore sint. Cillum laboris duis labore culpa cupidatat anim. Deserunt mollit reprehenderit minim culpa irure cupidatat sit voluptate mollit elit elit duis labore. Tempor duis est ad est amet ipsum enim ullamco tempor. Ut veniam dolor ea duis ad ipsum ipsum enim incididunt sint ut proident mollit.\r\n",
-    "Ratings": null
+    "Ratings": null,
+    "AvrRatings": -1
   },
   {
     "Id": "5e58484ceab175a35cadcccf",
@@ -135,7 +151,8 @@
     "Url": "https://placeholder.com/stock-photos",
     "Title": "Esse qui fugiat mollit sunt in ullamco laboris et ullamco amet excepteur elit ea.",
     "Description": "Aliquip culpa do esse nostrud sint esse. Occaecat elit ea velit nisi ullamco eu do nulla cupidatat. Excepteur irure do occaecat qui amet nostrud ut dolor ea ad est.\r\n",
-    "Ratings": null
+    "Ratings": null,
+    "AvrRatings": -1
   },
   {
     "Id": "5e58484cb62999fb1929153a",
@@ -144,7 +161,8 @@
     "Url": "https://placeholder.com/stock-photos",
     "Title": "Commodo consequat nisi est ex occaecat elit sit proident.",
     "Description": "Excepteur mollit officia laboris deserunt irure reprehenderit magna culpa mollit exercitation proident in ex adipisicing. Consectetur aliquip non ipsum ut. Proident officia et est aliqua aliqua ullamco aliqua non non adipisicing. Voluptate culpa eiusmod esse in velit aliqua laboris ex laborum officia. Deserunt enim et magna irure consequat. Qui anim adipisicing Lorem excepteur consequat velit labore cillum laborum ad nostrud cupidatat officia. Laboris velit incididunt qui occaecat.\r\n",
-    "Ratings": null
+    "Ratings": null,
+    "AvrRatings": -1
   },
   {
     "Id": "5e58484c23ea062d70919cbe",
@@ -153,7 +171,8 @@
     "Url": "https://placeholder.com/stock-photos",
     "Title": "Anim consectetur consequat in dolore anim cillum consectetur.",
     "Description": "Eiusmod enim nostrud id esse Lorem sunt nisi incididunt reprehenderit amet excepteur cillum voluptate aliquip. Sit enim veniam et deserunt tempor culpa ad sint in esse esse aliquip. Sint duis sint cupidatat aliquip. Ut quis eu ut veniam proident tempor nisi nisi sunt ullamco. Minim aute consequat commodo mollit. Labore dolor consequat fugiat aute non cillum dolor.\r\n",
-    "Ratings": null
+    "Ratings": null,
+    "AvrRatings": -1
   },
   {
     "Id": "5e58484ce41c5251e2de45b1",
@@ -162,7 +181,8 @@
     "Url": "https://placeholder.com/stock-photos",
     "Title": "Aliquip id nulla et pariatur magna reprehenderit ullamco minim nulla amet minim.",
     "Description": "Laborum excepteur officia mollit esse commodo. Non commodo labore nisi consequat fugiat sit do reprehenderit ut veniam. Ad et excepteur amet fugiat cillum. Mollit fugiat ex ipsum cupidatat quis eu deserunt sunt excepteur labore exercitation incididunt.\r\n",
-    "Ratings": null
+    "Ratings": null,
+    "AvrRatings": -1
   },
   {
     "Id": "5e58484c0b1b543ca230876b",
@@ -171,7 +191,8 @@
     "Url": "https://placeholder.com/stock-photos",
     "Title": "Do ullamco culpa quis aliquip occaecat duis dolore non quis.",
     "Description": "Reprehenderit excepteur veniam dolor incididunt labore id nisi. Sunt dolore dolor occaecat Lorem elit. Veniam duis nulla eu minim aliqua ea enim occaecat ipsum ad voluptate consectetur. Ad do irure culpa aliqua sunt velit est mollit amet non officia qui anim. Proident irure ut enim esse dolore officia laborum amet deserunt officia in. Esse officia enim officia commodo in excepteur dolor eu quis dolor aliquip ex. Laboris laborum voluptate do ipsum.\r\n",
-    "Ratings": null
+    "Ratings": null,
+    "AvrRatings": -1
   },
   {
     "Id": "5e58484cb478bb798d76889f",
@@ -180,6 +201,7 @@
     "Url": "https://placeholder.com/stock-photos",
     "Title": "Nulla ullamco proident velit exercitation ipsum Lorem tempor do nisi amet dolor qui.",
     "Description": "Velit fugiat exercitation ut laboris anim mollit eiusmod occaecat. Laborum nulla nulla est irure sit laboris ex. Ullamco consequat aute adipisicing duis ipsum ut exercitation adipisicing qui Lorem Lorem culpa. Occaecat aute dolor velit consectetur.\r\n",
-    "Ratings": null
+    "Ratings": null,
+    "AvrRatings": -1
   }
 ]

@@ -14,20 +14,41 @@
 </div>
 
 <div class="card-columns">
-@foreach(var product in Model.Products){
-    
-    <div class="card">
-        <div class="card-img" style="background-image:url('@product.Image');"> </div>
-        <div class="card-body">
+@foreach (var product in Model.Products)
+{
 
-            <h5 class="card-title">@product.Title</h5>
-            <h5 class="card-subtitle">@product.Id</h5>
-
-            <! –– and the comment closes with ––>
-        </div>
+    <a href ="/ProductPage">
         
-    
-    </div>
-    
-}
+        <div class="card">
+            @{
+                var ret = product.AvrRatings;
+                if (ret == -1)
+                {
+                    <h5 class="card-rating"> No Rating</h5>
+                }
+                else
+                {
+                @*<div class="card-rating">
+                    <img src="data/RatingImage.png">
+                </div>*@
+                    
+                    <h5 class="card-rating"> @ret </h5>
+                }
+
+            }
+            <div class="card-img" style="background-image:url('@product.Image');"> </div>
+            <div class="card-body">
+
+                <h5 class="card-title">@product.Title</h5>
+
+
+
+
+                <! –– and the comment closes with ––>
+            </div>
+
+
+        </div>
+        </a>
+        }
 </div>

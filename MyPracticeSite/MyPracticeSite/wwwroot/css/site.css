@@ -28,6 +28,20 @@ for details on configuring this project to bundle and minify static web assets. 
     opacity: .8;
 }
 
+.card .card-rating {
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+    width: 150px;
+}
+
+.card-columns .card-thumbsup {
+    /*border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;*/
+    width: 150px;
+}
+
 .modal .card-img {
     height: 500px;
     vertical-align: bottom;

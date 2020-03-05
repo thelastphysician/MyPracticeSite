@@ -21,6 +21,30 @@ namespace MyPracticeSite.Models
         public string Description { get; set; }
         public int[] Ratings { get; set; }
 
+        public float AvrRatings
+        {
+            get {
+                double total = 0;
+                try
+                {
+                    foreach (int i in this.Ratings)
+                    {
+                        total += i;
+                    }
+               
+                    total = total / Ratings.Length;
+                }
+                catch(NullReferenceException e)
+                {
+                    return -1;
+                }
+                return (float)Math.Round(total, 3);
+            }
+            
+            
+
+        }
+
         public override string ToString()
         {
             return JsonSerializer.Serialize<Product>(this);
